@@ -1,0 +1,4 @@
+1. generate polar <-> rect unwrapping params - '2023-02-18_generate_mapping_polar_rect-additional-Static.py'
+2. map polar to rect using '2023-02-19_stitch_binary_segmentation_both_views-additional_static.py'
+2. stitch the polar-to-rect and rect - '2023-02-18_stitch_two_rect_views-Static.py'
+3. mapping of refined rect -> polar for final refinement -- '2022-21-02_gen_larger_rect_polar_curated_segmentation_production-v2_fix-Static.py'
