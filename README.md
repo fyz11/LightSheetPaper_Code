@@ -1,7 +1,7 @@
 # Code for the analysis of Lightsheet acquisitions of Mouse Embryogenesis
 
 <p align="center">
-  <img src="https://github.com/fyz11/LightSheetPaper_Code/blob/main/Docs/Picture/Graphical_abstract.jpg" width=100%/>
+  <img src="https://github.com/fyz11/LightSheetPaper_Code/blob/main/Docs/Picture/Graphical_abstract_crop.jpg" width=100%/>
 </p>
 
 This repository contains a collection of scripts that is broadly categorised by analytical theme for the paper:
