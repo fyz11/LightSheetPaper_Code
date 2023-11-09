@@ -1,5 +1,8 @@
 # Code for the analysis of Lightsheet acquisitions of Mouse Embryogenesis
 
+<p align="center">
+  <img src="https://github.com/fyz11/SPOT/blob/Docs/Picture/Graphical%20abstract-2023-03-21.jpg" width=100%/>
+</p>
 
 This repository contains a collection of scripts that is broadly categorised by analytical theme for the paper:
 
