@@ -12,3 +12,4 @@ The scripts were not initially developed as a reusable library in mind. We make 
 
 ## Tested Python and OS Environment
 These scripts were developed initialy with Python 2.7 and MATLAB 2019b. It was verified to work also with Python 3.6/3.7 with corresponding compatible MATLAB versions on Windows 7/10 and linux (Ubuntu 17) OS systems. 
+The DeepFlow optical flow computation has been tested to be compatible with Python OpenCV 4.5.1.
